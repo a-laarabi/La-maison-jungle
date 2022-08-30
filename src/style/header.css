@@ -1,0 +1,10 @@
+header {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 20px;
+}
+
+.lmjLogo {
+  width: 40px;
+}
